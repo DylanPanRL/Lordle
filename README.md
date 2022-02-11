@@ -1,0 +1,2 @@
+# Lordle
+Latin Wordle
